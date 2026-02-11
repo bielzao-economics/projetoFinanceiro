@@ -2,7 +2,6 @@ from altair import value
 import streamlit as st
 import pandas as pd
 import yfinance as yf
-import investpy as inv
 import seaborn as sns
 import matplotlib.pyplot as plt
 from datetime import date, datetime
